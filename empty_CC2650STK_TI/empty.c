@@ -53,7 +53,6 @@
 Task_Struct heartBeatStruct;
 Char heartBeatStack[HEARTBEATSTACK];
 
-
 /* Pin driver handle */
 static PIN_Handle ledPinHandle;
 static PIN_State ledPinState;
